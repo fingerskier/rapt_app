@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rapt_app/static/css/main.ea642c27.css",
-    "main.js": "/rapt_app/static/js/main.8a726b9e.js",
-    "static/js/787.edb93821.chunk.js": "/rapt_app/static/js/787.edb93821.chunk.js",
+    "main.css": "/rapt_app/static/css/main.8979a772.css",
+    "main.js": "/rapt_app/static/js/main.0f7a7620.js",
+    "static/js/787.3114d79a.chunk.js": "/rapt_app/static/js/787.3114d79a.chunk.js",
     "service-worker.js": "/rapt_app/service-worker.js",
     "index.html": "/rapt_app/index.html",
-    "main.ea642c27.css.map": "/rapt_app/static/css/main.ea642c27.css.map",
-    "main.8a726b9e.js.map": "/rapt_app/static/js/main.8a726b9e.js.map",
-    "787.edb93821.chunk.js.map": "/rapt_app/static/js/787.edb93821.chunk.js.map"
+    "main.8979a772.css.map": "/rapt_app/static/css/main.8979a772.css.map",
+    "main.0f7a7620.js.map": "/rapt_app/static/js/main.0f7a7620.js.map",
+    "787.3114d79a.chunk.js.map": "/rapt_app/static/js/787.3114d79a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea642c27.css",
-    "static/js/main.8a726b9e.js"
+    "static/css/main.8979a772.css",
+    "static/js/main.0f7a7620.js"
   ]
 }
